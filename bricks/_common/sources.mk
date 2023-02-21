@@ -61,6 +61,7 @@ PYBRICKS_PYBRICKS_SRC_C = $(addprefix pybricks/,\
 	iodevices/pb_type_iodevices_i2cdevice.c \
 	iodevices/pb_type_iodevices_lumpdevice.c \
 	iodevices/pb_type_iodevices_lwp3device.c \
+	iodevices/pb_type_iodevices_nusdevice.c \
 	iodevices/pb_type_iodevices_pupdevice.c \
 	iodevices/pb_type_iodevices_uartdevice.c \
 	media/pb_module_media.c \
